@@ -4,3 +4,5 @@
 
 @component('header')
 @endcomponent
+
+HOME PAGE

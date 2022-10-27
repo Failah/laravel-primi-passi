@@ -29,6 +29,6 @@
 
 <div id="navbar">
     @foreach ($links as $link)
-        <a href=""> {{ $link }} </a>
+        <a href={{ $link }}> {{ $link }} </a>
     @endforeach
 </div>
